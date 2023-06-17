@@ -4,7 +4,7 @@
  * @brief   This file contains the hw configuration of the light control module
  * @date    17/6/2023
 */
-
+#include "stm32f446xx.h"
 #include "LightCtrl_hw_config.h"
 
 // Buffer to store received UART data
