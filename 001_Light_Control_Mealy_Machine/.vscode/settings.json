@@ -3,6 +3,7 @@
         "stm32f4xx_hal.h": "c",
         "stm32f4xx_hal_conf.h": "c",
         "stm32f4xx_hal_gpio.h": "c",
-        "stm32f4xx_hal_gpio_ex.h": "c"
+        "stm32f4xx_hal_gpio_ex.h": "c",
+        "lightctrl_hw_config.h": "c"
     }
 }

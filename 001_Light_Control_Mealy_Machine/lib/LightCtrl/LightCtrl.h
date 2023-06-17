@@ -11,6 +11,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f4xx_hal.h"
+#include "LightCtrl_hw_config.h"
 
 /* Exported types ------------------------------------------------------------*/
 typedef enum{
